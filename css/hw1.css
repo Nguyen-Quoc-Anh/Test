@@ -45,7 +45,7 @@ nav > a:focus,
 nav > a:hover {
     font-size: 120%;
     background:rgba(255,255,255, 1);
-    cursor: url('/images/curmiku9.png'), auto;
+    cursor: url('../images/curmiku9.png'), auto;
 }
 
 main > aside > a > img{
@@ -55,7 +55,7 @@ main > aside > a > img{
     height: 120px;
 }  
 main aside a:hover {
-    cursor: url('http://ani4u.org/cus/curmiku9.png'), auto;
+    cursor: url('../images/curmiku9.png'), auto;
 }
 aside {
     float: left;
@@ -123,5 +123,5 @@ section table tr td:hover{
     opacity: 1;
 }
 html, body {
-    cursor: url('http://ani4u.org/cus/curmiku6.png'), auto;
+    cursor: url('../images/curmiku6.png'), auto;
 }
